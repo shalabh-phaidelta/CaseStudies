@@ -1,2 +1,2 @@
 # CaseStudies
-Tackling different type of case studies
+Tackling different types of largely ai case studies thereby understanding the pipeline.
